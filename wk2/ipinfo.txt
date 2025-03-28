@@ -1,0 +1,30 @@
+
+cnn.com
+IPv4: 198.96.85.163
+Geolocation: Canada,Toronto
+Latitude: 43.6502
+Longitude: -79.3975
+
+stackoverflow.com,
+IPv4: 104.18.32.7
+Geolocation: United States,San Francisco
+Latitude: 37.7757
+Longitude: -122.3952
+
+netflix.com
+IPv4: 44.242.60.85
+Geolocation: United States,Boardman
+Latitude: 45.8399
+Longitude: -119.7006
+
+spotify.com
+IPv4: 35.186.224.24
+Geolocation: United States,Kansas City
+Latitude: 39.0997
+Longitude: -94.5786
+
+apple.com
+IPv4: 17.253.144.10
+Geolocation: United States,Cupertino
+Latitude: 37.3166
+Longitude: -122.0465

@@ -1,0 +1,19 @@
+ tracert georgbrown.ca
+
+Tracing route to georgbrown.ca [67.225.218.50]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  192.168.2.1
+  2     5 ms     4 ms     4 ms  64.230.11.156
+  3    16 ms    20 ms    16 ms  64.230.104.162
+  4    17 ms    17 ms    17 ms  142.124.127.141
+  5     *        *        *     Request timed out.
+  6    16 ms    15 ms    14 ms  64.230.79.85
+  7    16 ms    18 ms    16 ms  be-220-pe03.350ecermak.il.ibone.comcast.net [66.208.216.145]
+  8    17 ms    15 ms    16 ms  50.242.150.130
+  9    21 ms    20 ms    20 ms  lw-dc2-core1-nexus-eth3-19.rtr.liquidweb.com [209.59.157.224]
+ 10    35 ms    38 ms    35 ms  lw-dc3-core1-eth2-21.rtr.liquidweb.com [209.59.157.105]
+ 11    34 ms    35 ms    35 ms  209.59.157.243
+ 12    32 ms    33 ms    33 ms  haproxy05.parklogic.com [67.225.218.50]
+
+Trace complete.

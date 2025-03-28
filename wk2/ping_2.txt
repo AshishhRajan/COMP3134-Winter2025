@@ -1,0 +1,8 @@
+
+Pinging georgebrown.ca [198.96.86.176] with 32 bytes of data:
+Request timed out.
+Request timed out.
+
+Ping statistics for 198.96.86.176:
+    Packets: Sent = 2, Received = 0, Lost = 2 (100% loss),
+Control-C
